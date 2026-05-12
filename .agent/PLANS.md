@@ -1,5 +1,11 @@
 # Codex Execution Plans (ExecPlans):
 
+## Repository context for this project
+
+このリポジトリは Java 基礎 Vol.07「配列」の授業用教材です。`src/` 直下のデフォルトパッケージに、`App.java`、`SampleArray*.java`、`SampleArrayAsRef*.java`、`SampleArray2D*.java`、`Array3DSample*.java`、`Kakunin*.java` などの独立した Java プログラムがあります。ビルドツールや外部ライブラリは使わず、`javac src/<ClassName>.java` と `java -cp src <ClassName>` で対象ファイルを個別に確認します。
+
+ExecPlan をこのリポジトリ向けに書く場合は、必ず `AGENTS.md` を Single Source of Truth として扱ってください。一部の Java ファイルは、配列のコンパイルエラーや実行時例外を確認するために意図的にエラーを含んでいるため、全ファイル一括コンパイルの失敗だけを修正対象と判断しないでください。
+
 This document describes the requirements for an execution plan ("ExecPlan"), a design document that a coding agent can follow to deliver a working feature or system change. Treat the reader as a complete beginner to this repository: they have only the current working tree and the single ExecPlan file you provide. There is no memory of prior plans and no external context.
 
 ## How to use ExecPlans and PLANS.md

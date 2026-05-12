@@ -1,2 +1,9 @@
-Load the project rules from @AGENTS.md.
-Summarize the non-negotiable constraints in ≤5 bullets before taking any action.
+`@AGENTS.md` からプロジェクトルールを読み込んでください。
+
+行動前に、次の観点を 5 項目以内で要約してください。
+
+- 回答言語は日本語
+- Java 基礎 Vol.07「配列」の教材であること
+- 外部ライブラリを導入しないこと
+- `src/` の Java ファイルは個別にコンパイル・実行すること
+- 意図的なコンパイルエラー・実行時例外を教材として扱うこと

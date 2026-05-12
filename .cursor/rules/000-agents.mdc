@@ -3,4 +3,7 @@ description: Apply root AGENTS.md as project-wide rules
 alwaysApply: true
 ---
 
+このリポジトリは Java 基礎 Vol.07「配列」の授業用教材です。
+`src/` には `SampleArray*.java`、`SampleArrayAsRef*.java`、`SampleArray2D*.java`、`Array3DSample*.java`、`Kakunin*.java` などがあり、一部はエラー確認用に意図的なコンパイルエラーや実行時例外を含みます。
+
 @AGENTS.md
