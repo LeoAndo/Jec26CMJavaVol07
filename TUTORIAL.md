@@ -63,6 +63,7 @@ Jec26CMJavaVol07/
 │   └── Kakunin*.java
 ├── README.md
 ├── TUTORIAL.md
+├── FLOWCHARTS_AND_TRACES.md
 ├── AGENTS.md
 └── JecJavaTemplate.iml
 ```

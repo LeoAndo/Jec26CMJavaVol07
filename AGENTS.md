@@ -102,6 +102,7 @@ java -cp src SampleArray04c
 
 - `README.md` : プロジェクト概要、セットアップ、収録ファイル一覧。
 - `TUTORIAL.md` : Vol.07 配列の授業用テキスト。
+- `FLOWCHARTS_AND_TRACES.md` : 全 Java ファイルのフローチャートとトレース表。
 - `AGENTS.md` : AI エージェント向け共通ルール（本ファイル）。
 - `CLAUDE.md` : Claude 向けのルール読み込み案内。
 - `.github/copilot-instructions.md` : GitHub Copilot 向けのルール参照。
